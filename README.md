@@ -35,7 +35,7 @@ special_freature 輸入2個數字自動運算 p x 取 y
 ```
 
 
-### 挑戰二: pip 及 Django 實作  (folder: x_3)
+### 挑戰二: pip 及 Django 實作  (folder: x_2)
 
 > 請參考 https://github.com/twtrubiks/django-tutorial 的教學，將您的Django 運行起來，並進行以下步驟:
 
