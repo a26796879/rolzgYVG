@@ -1,5 +1,4 @@
 # ORDERLY Python / Django Interview
-Python / Django Web Developer
 
 Hi,
 
